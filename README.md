@@ -4,3 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-lucas-santos/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-dev-web&show_icons=true&theme=dark)
+
+## Tecnologias que útilizo
+<div>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="">
+</div>
