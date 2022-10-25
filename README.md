@@ -12,4 +12,4 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
 </div>
 <br>
-Apaixonado por Tecnologia!
+Acredito que, atraves da tecnoligia, podemos tornar o mundo melhor.
